@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Build Variants</string>
+    <string name="main_content">主環境字串</string>
+</resources>

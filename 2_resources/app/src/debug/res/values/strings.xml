@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Build Variants(Debug)</string>
+    <string name="main_content">Hello Debug World!!</string>
+</resources>
